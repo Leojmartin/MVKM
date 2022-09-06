@@ -1,4 +1,4 @@
-# MVKM
+# MVKM (Proyectp de grado)
 Código basado en  la aplicación del modelo MVKM publicado en el artículo Modeling Knowledge Acquisition from Multiple Learning Resource Types, en 2020, 
 y elaborado por Zhao, S., Wang, C., y Sahebi, S., de la Universidad de Albany, Nueva York, Estados Unidos.
 
