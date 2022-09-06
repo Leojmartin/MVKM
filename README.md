@@ -8,4 +8,4 @@ y elaborado por Zhao, S., Wang, C., y Sahebi, S., de la Universidad de Albany, N
 El código se ejecutó sobre datos de la Universidad Simón Bolívar y se adaptó aplicando una penalización, a través de una función indicatriz, sobre la matriz 
 tridimensional T_a.
 
-Se adjunta el código escrito en Python, el libro del proyecto de grado y al acta de aprobación del mismo.
+Se adjunta el código escrito en Python, el libro del proyecto de grado, pdf, y al acta de aprobación del mismo, pdf.
